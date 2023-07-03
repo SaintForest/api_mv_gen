@@ -4,7 +4,8 @@ This repository contains code for a Movie Genre API that predicts the genre of a
 
 ## Prerequisites
 
-Before running the API, make sure that the `model-new.pt` file is present in the project directory. If it is not available, you can build the model by running the `model_building.ipynb` notebook.
+Before running the API, make sure that the `model-new.pt` file is present in the project directory. If it is not available, you can build the model by running the `model_building.ipynb` notebook or simply download from the below google drive link
+[Link for built model](https://drive.google.com/file/d/1lMMBOpV00Bgb5dNPv6YNXV1raqq-6e19/view?usp=sharing)
 
 ## Docker Setup
 
